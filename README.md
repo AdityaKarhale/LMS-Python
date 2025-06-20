@@ -44,3 +44,11 @@ Each operation has its own popup window for clean input/output.
 
 Input validation and user feedback via messagebox.
 
+🚀 How to Run
+Clone the repository:
+git clone https://github.com/your-username/library-management-system.git
+cd library-management-system
+Run the setup.py first
+Run the gui.py 
+
+
