@@ -1,0 +1,2 @@
+# Ignore the SQLite database
+library_db.db
